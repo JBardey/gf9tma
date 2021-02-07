@@ -4,7 +4,8 @@
 
 Contains battlescribe data for USA, Soviet, British, French and German forces.
 
-All Globa, USA and Soviet cards from Starter Set
+All Global, USA and Soviet cards from Starter Set
+
 Hero, crew and upgrade cards from the following Expansions:
 * British Cheiftain
 * British Scimitar
