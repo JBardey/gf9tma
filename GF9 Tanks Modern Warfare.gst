@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="c4ca-1ece-ac34-246b" name="GF9 Tanks: Modern Warfare" revision="1" battleScribeVersion="2.03" authorName="Jason Bardey" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="c4ca-1ece-ac34-246b" name="GF9 Tanks: The Modern Age" revision="1" battleScribeVersion="2.03" authorName="Jason Bardey" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="7d3f-da6b-14eb-0a69" name="Tanks: The Modern Age Rulebook" publisherUrl="https://d21zdtsl28sndy.cloudfront.net/downloads/tanks/Tanks-Modern-Age-Rulebook.pdf"/>
   </publications>
